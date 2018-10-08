@@ -11,7 +11,6 @@ Hence, I want a thorough and complete education in Informatics / Computer Scienc
 Duration
   : I want to finish this within 12 to 18 months with a weekly time spent of 10-20h.
 
-
 ### Table of Topics
 
 #### Introduction to Computer Science
@@ -34,7 +33,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [/] discrete mathematics
 * [/] graph theory
 
-### Core Systems
+#### Core Systems
 
 * [X] boolean algebra
 * [/] gate logic memory
@@ -47,7 +46,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [/] operating systems
 * [/] network protocol
 
-### Core Applications
+#### Core Applications
 
 * [X] REST
 * [ ] software specifications
@@ -65,7 +64,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [/] public key encryption
 * [X] Agile methodology
 
-### Advanced Programming
+#### Advanced Programming
 
 * [X] debugging theory and practice
 * [ ] goal-oriented programming
