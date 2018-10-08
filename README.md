@@ -15,7 +15,7 @@ Duration
   : You can wake me up in the middle of the night.
 
 `* [/]`
-  : I'll need a coffee and a few sheets of paper to figure stuff out (during the night)
+  : I'll need a coffee and a few sheets of paper to figure stuff out.
   
 `* [ ]`
   : That's still a knowledge gap.
