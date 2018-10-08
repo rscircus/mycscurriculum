@@ -1,4 +1,4 @@
-# R's own CS degree
+# R's own :rocket:-CS degree
 
 ## Scope of the document
 
