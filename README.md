@@ -132,7 +132,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [/] Cloud Computing
 * [/] Full Stack Web Development
 * [/] Data Science
-* [ ] Functional Programming
+* [/] Functional Programming
 
 ## Books
 
