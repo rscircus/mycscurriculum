@@ -6,10 +6,20 @@ My motivation for this is a fundament for the knowledge I have already spread ou
 
 Hence, I want a thorough and complete education in Informatics / Computer Science.
 
-### Further Requirements
+### Further Requirements/Notes
 
 Duration
   : I want to finish this within 12 to 18 months with a weekly time spent of 10-20h.
+
+`* [X]`
+  : You can wake me up in the middle of the night.
+
+`* [/]`
+  : I'll need a coffee and a few sheets of paper to figure stuff out (during the night)
+  
+`*[ ]`
+  : That's still a knowledge gap.
+
 
 ### Table of Topics
 
