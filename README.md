@@ -72,7 +72,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [ ] block ciphers
 * [ ] authentication
 * [/] public key encryption
-* [X] Agile methodology
+* [X] agile methodology
 
 #### Advanced Programming
 
