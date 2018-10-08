@@ -1,4 +1,4 @@
-# Roland's own CS degree
+# R's own CS degree
 
 ## Scope of the document
 
@@ -125,6 +125,16 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [ ] Functional Programming
 
 ## Books
+
+* SICP or [How to Design Programs](https://htdp.org/)
+* Computer Organization and Design [amzn](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269?pldnSite=1)
+* The Algorithm Design Manual ~Skiena / How to solve it [amzn](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/?pldnSite=1)
+* Mathematics for Computer Science [Online](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+* Operating Systems: Three Easy Pieces [Online](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* Computer Networking: A Top Down Approach [amzn](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/?pldnSite=1)
+* Readings in Database Systems [Online](http://www.redbook.io/)
+* Compilers: Principles, Techniques and Tools [amzn](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1)
+* Distributed systems, 3rd Edition by Maarten van Steen [Online](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 
 ## Links
 
