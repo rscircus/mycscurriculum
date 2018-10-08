@@ -17,7 +17,7 @@ Duration
 `* [/]`
   : I'll need a coffee and a few sheets of paper to figure stuff out (during the night)
   
-`*[ ]`
+`* [ ]`
   : That's still a knowledge gap.
 
 
