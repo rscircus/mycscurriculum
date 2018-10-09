@@ -103,7 +103,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [ ] pipelining
 * [/] virtualization
 * [X] parallel processing
-* [ ] virtual memory
+* [X] virtual memory
 * [ ] synchronization primitives
 * [ ] system call interface
 
