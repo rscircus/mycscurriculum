@@ -4,7 +4,7 @@ Basically that's the thing, which makes your computer feel super slow when RAM h
 
 ## Explanation
 
-One picture, which describes it is without words:
+One picture, which describes it is with few words:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Virtual_memory.svg/250px-Virtual_memory.svg.png)
 
