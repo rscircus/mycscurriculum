@@ -130,7 +130,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [/] Data Mining /  Big Data
 * [/] Internet of Things
 * [/] Cloud Computing
-* [/] Full Stack Web Development
+* [/] Full Stack Web Development - [Frontend](https://frontendmasters.com/books/front-end-handbook/2018/2018.html)
 * [/] Data Science
 * [/] Functional Programming
 
