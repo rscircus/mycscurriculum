@@ -146,6 +146,10 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * Compilers: Principles, Techniques and Tools [amzn](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1)
 * Distributed systems, 3rd Edition by Maarten van Steen [online](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 
+## Lectures / Videos
+
+* [Algorithms by Bob Sedgewick on YT](https://www.youtube.com/playlist?list=PLtkAfVCgA693fNJCZkdFqs0awgynxmcAa)
+
 ## Links
 
 * http://www.csfieldguide.org.nz/en/index.html
