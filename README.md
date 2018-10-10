@@ -114,7 +114,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [ ] computability
 * [ ] event-driven concurrency
 * [ ] automata
-* [ ] distributed shared memory
+* [X] distributed shared memory
 * [ ] consensus algorithms
 * [ ] state machine replication
 * [ ] computational geometry theory
