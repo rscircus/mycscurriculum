@@ -117,7 +117,7 @@ Actually I believe, that I do not need that as these courses are aimed at noobs 
 * [X] distributed shared memory
 * [ ] consensus algorithms
 * [ ] state machine replication
-* [ ] computational geometry theory
+* [ ] computational geometry theory - [Book by Rolf Klein](https://www.springer.com/de/book/9783540209560)
 * [ ] propositional logic
 * [ ] relational logic
 * [ ] Herbrand logic
