@@ -4,3 +4,7 @@
 * [X] And use github with a personal access token for this
 * [X] CodeGlance is the plugin equivalent to Sublime's minimap
 * [X] CodingHorror is my favorite theme so far here
+
+## Java Spring Boot
+
+* [X] While exploring Intellij's features, I must say, that Java Spring Boot is bloatware.
